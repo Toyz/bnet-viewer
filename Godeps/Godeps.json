@@ -1,0 +1,37 @@
+{
+	"ImportPath": "github.com/toyz/bnet-viewer",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/jessevdk/go-flags",
+			"Comment": "v1.3.0-5-gf88afde",
+			"Rev": "f88afde2fa19a30cf50ba4b05b3d13bc6bae3079"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "06020f85339e21b2478f756a78e295255ffa4d6a"
+		},
+		{
+			"ImportPath": "github.com/moul/http2curl",
+			"Rev": "9ac6cf4d929b2fa8fd2d2e6dec5bb0feb4f4911d"
+		},
+		{
+			"ImportPath": "github.com/parnurzeal/gorequest",
+			"Comment": "v0.2.15-24-g8e3aed2",
+			"Rev": "8e3aed27fe49f7fdc765dad067845f600fc984e8"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-9-g8842a6e",
+			"Rev": "8842a6e0cc595d1cc9d931f6c875883967280e32"
+		},
+		{
+			"ImportPath": "golang.org/x/net/publicsuffix",
+			"Rev": "d866cfc389cec985d6fda2859936a575a55a3ab6"
+		}
+	]
+}
